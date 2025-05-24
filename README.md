@@ -87,7 +87,8 @@ int main()
 
 
 ## OUTPUT
-![Uploading image.png…]()
+
+![Screenshot 2025-05-24 171245](https://github.com/user-attachments/assets/3c41f64a-e452-4017-b079-46bd7870b8ab)
 
 
 
